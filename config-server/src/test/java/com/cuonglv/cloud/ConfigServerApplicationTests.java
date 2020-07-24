@@ -1,4 +1,4 @@
-package com.macro.cloud;
+package com.cuonglv.cloud;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

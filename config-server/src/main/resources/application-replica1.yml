@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/kuonglv/springcloud-learning/springcloud-config.git
+          uri: https://github.com/kuonglv/springcloud-config.git
           # username: kuonglv
           # password: 123456
           clone-on-start: true
